@@ -1,6 +1,4 @@
 rm(list=ls())
-#https://www.kaggle.com/sarahvch/prediction-of-breast-cancer/code
-#https://www.r-bloggers.com/multilabel-classification-with-neuralnet-package/
 library(Amelia)
 library(dplyr)
 library(ggplot2)
